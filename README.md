@@ -1,3 +1,4 @@
+![logo](https://github.com/AYUsh9456/AYUsh9456/blob/main/DALL%C2%B7E%202025-01-14%2015.30.28%20-%20A%20dark-themed%2C%20modern%20GitHub%20banner%20for%20a%20Computer%20Science%20Engineer%20named%20Ayush%20Saxena.%20The%20design%20should%20feature%20a%20futuristic%20and%20minimalistic%20style%20.webp)
 <h1 align="center">Hi 👋, I'm AYUSH SAXENA</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
